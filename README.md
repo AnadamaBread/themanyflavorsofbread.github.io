@@ -4,25 +4,33 @@ Wrote and Published by Luis Baez
 
 Computer Science Undergrad 
 
-### CourseWork
+### Course_Work
 
-CSCE 145/146 -> Learned basic data structures and algorithms with Java  
-CSCE 211/212 -> Learned computer logic and assemebly programming with MIPS  
-CSCE 240 -> Learned advanced programming techniques by developing interpreters, assemblers, and ~compilers in C++  
-CSCE 311 -> Studied operating systems and researched IPCs and SYSCALLs  
-CSCE 330 -> Studied the usage of logic programming with Haskell and Prolog  
-CSCE 350 -> In-depth study of common and advanced algorithms  
-CSCE 355 -> Studied the in-depth fundimentals of Computation and Automaton   
-CSCE 546 -> Learned mobile application development with the Ionic Angular Frameworks  
-CSCE 590 -> Studied social engineering, the use of OSINT, and experiment with these tools in a college society.  
+    CSCE 145/146 -> Learned basic data structures and algorithms with Java  
+    
+    CSCE 211/212 -> Learned computer logic and assembly programming with MIPS  
+    
+    CSCE 240 -> Learned advanced programming techniques by developing interpreters, assemblers, and ~compilers in C++  
+    
+    CSCE 311 -> Studied operating systems and researched IPCs and SYSCALLs  
+    
+    CSCE 330 -> Studied the usage of logic programming with Haskell and Prolog  
+    
+    CSCE 350 -> In-depth study of common and advanced algorithms  
+    
+    CSCE 355 -> Studied the in-depth fundamentals of Computation and Automaton   
+    
+    CSCE 546 -> Learned mobile application development with the Ionic Angular Frameworks  
+    
+    CSCE 590 -> Studied social engineering, the use of OSINT, and experiment with these tools in a college society.  
 
 
 ```markdown
 # Experience
 - Resident Mentor 
-- Chemical Engineering Informatoin Technology Help Staff
-- Treasurer of UofSC Cybersecurity Club
-- President of UofSC Cybersecurity Club
+- Chemical Engineering Information Technology Help Staff
+- Treasurer of UofSC CyberSecurity Club
+- President of UofSC CyberSecurity Club
 
 1. BananaBread
 2. AnadamaBread
@@ -32,8 +40,9 @@ CSCE 590 -> Studied social engineering, the use of OSINT, and experiment with th
 
 **We** live _in a _ and _breathe_ in a `Society` text
 
-[Link](url) and ![Image](src)
+![Alt Text](https://media.giphy.com/media/j1mta35vYFwykSxV6R/giphy.gif)
 ```
+
 For more details -> Maybe one day
 
 ### Obsession
