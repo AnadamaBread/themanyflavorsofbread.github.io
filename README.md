@@ -39,9 +39,9 @@ Computer Science Undergrad
 5. WheatBread
 
 **We** live _in a _ and _breathe_ in a `Society` text
+```
 
 ![Alt Text](https://media.giphy.com/media/j1mta35vYFwykSxV6R/giphy.gif)
-```
 
 For more details -> Maybe one day
 
