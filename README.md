@@ -31,31 +31,47 @@ Computer Science Undergrad
 - Chemical Engineering Information Technology Help Staff
 - Treasurer of UofSC CyberSecurity Club
 - President of UofSC CyberSecurity Club
-
-1. BananaBread
-2. AnadamaBread
-3. SweetBeanBread
-4. CornBread
-5. WheatBread
-
-**We** live _in a _ and _breathe_ in a `Society` text
 ```
 
 ![Alt Text](https://media.giphy.com/media/j1mta35vYFwykSxV6R/giphy.gif)
 
-For more details -> Maybe one day
+For more details | Coming Soon
 
-### Obsession
+## Obsessions
 
 Linux : Ubuntu, Mint, Kali, Elementary, Manjaro, Debian, Fedora  
-DE : Gnome, XFCE, KDE  
-WM : KWM, BSPWM, i3, Gnome  
+DE : Gnome, XFCE, KDE, Mint  
+WM : KWM, BSPWM, i3, Gnome, Awesome!  
 
 Windows : 10, 8.1, 8, 7, XP, Server 2008 R2  
 
-Sofware & Such : Adobe Photoshop, Adobe Premeire, Adobe After Effects, Blender, VS Code, Eclipse, Terminal,   
-          Wireshark, TcpDump, IPTables, Palo Alto Firewall, Bind9 DNS, Google, Office, Processing,   
-          Unity, Godot, Rufus, Matlab, vim, bash, Keybase, GitHub  
+```markdown
+# Software & Such:
+Adobe PhotoShop, Adobe Premiere, Adobe After Effects, Blender
+VS Code, Eclipse, Terminal, vim, bash, GitHub
+WireShark, TcpDump, IPTables, Palo Alto Firewall, Bind9 DNS
+Google, MS Office, Libre Office 
+Processing, Unity, Godot, Rufus, Matlab, KeyBase
+```
+
+## Programming Languages
+_Ordered by favoritism starting at most favored_
+| Languages  | Strength            |
+|------------|---------------------|
+| Rust       | Rookie              |
+| Python     | Proficient          |
+| C++        | Proficient          |
+| Java       | Proficient          |
+| JavaScript | Somewhat Proficient |
+| TypeScript | Proficient          |
+| C          | Somewhat Rookie     |
+| C#         | Rookie              |
+| Golang     | Currently Learning  |
+| Haskell    | Bare                |
+| Prolog     | Bare                |
+| MIPS       | Somewhat Rookie     |
+| HTML / CSS | Proficient          |
+| Markdown   | Somewhat Proficient |
 
 ### Support or Contact  
 Saving this for a later date.  
