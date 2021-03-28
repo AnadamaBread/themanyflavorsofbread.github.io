@@ -1,8 +1,9 @@
-## Welcome to Bread
+## Luis Baez
 
-Wrote and Published by Luis Baez
+Drafted and Published by Luis Baez
 
-Computer Science Undergrad 
+Computer Science Undergraduate Student at the University of South Carolina  
+GPA: 3.698
 
 ### Course_Work
 
